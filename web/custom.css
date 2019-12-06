@@ -1,0 +1,24 @@
+.custom-nav{
+    background: #e6632c;
+    color: white;
+}
+
+.custom-form{
+    width: 60%;
+    margin-top: 20px;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+}
+
+footer{
+    background: #e6632c;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+}
+
