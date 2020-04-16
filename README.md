@@ -8,6 +8,7 @@ Technologies used:
   + JDBC (Connect to SQL Server Database)
   + Filter
   + JSTL (Java Standard Tag Library)
+  + Hibernate
   + Bootstrap, JQuery
 
 This project is used to manage to-do list with CRUD operations
